@@ -8,10 +8,11 @@ html {
 .container {
     display: flex;
     flex-direction: row;
-    width: 55rem;
-    height: 30rem;
-    margin-top: 5rem;
-    margin-left: 20rem;
+    position: absolute;
+    top: 9rem;
+    left: 20rem;
+    width: 60%;
+    height: 65%;
 }
 
 .header {

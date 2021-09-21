@@ -58,7 +58,7 @@ I want to continue improving my skills on front end development, trying out new 
 
 ### Useful resources
 
-- [Mozilla Developer Network](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
+- [Mozilla Developer Network](https://developer.mozilla.org/en-US/) - This website helped me understand some basic semantics of HTML5 and CSS3.
 
 - [Modern CSS Master the Key Concepts of CSS for Modern Web Development by Joe Attardi] - This book helped me understand some of the underlying principles of using css in a responsive context.
 
